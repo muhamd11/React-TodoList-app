@@ -1,6 +1,7 @@
 {
   "name": "react-to-do-list",
   "version": "0.1.0",
+  "homepage": "https://muhamd11.github.io/React-TodoList-app>",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
@@ -40,6 +41,4 @@
   "devDependencies": {
     "gh-pages": "^6.0.0"
   }
-  ,
-  "homepage": "https://muhamd11.github.io/React-TodoList-app>"
 }
